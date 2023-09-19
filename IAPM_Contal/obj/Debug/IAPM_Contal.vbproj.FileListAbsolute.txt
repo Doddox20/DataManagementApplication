@@ -1,0 +1,232 @@
+C:\Users\dorian.contal\source\repos\IAPM_Contal\IAPM_Contal\bin\Debug\IAPM_Contal.exe.config
+C:\Users\dorian.contal\source\repos\IAPM_Contal\IAPM_Contal\bin\Debug\IAPM_Contal.exe
+C:\Users\dorian.contal\source\repos\IAPM_Contal\IAPM_Contal\bin\Debug\IAPM_Contal.pdb
+C:\Users\dorian.contal\source\repos\IAPM_Contal\IAPM_Contal\bin\Debug\IAPM_Contal.xml
+C:\Users\dorian.contal\source\repos\IAPM_Contal\IAPM_Contal\bin\Debug\MySql.Data.dll
+C:\Users\dorian.contal\source\repos\IAPM_Contal\IAPM_Contal\obj\Debug\IAPM_Contal.FrmStart.resources
+C:\Users\dorian.contal\source\repos\IAPM_Contal\IAPM_Contal\obj\Debug\IAPM_Contal.FrmListeClients.resources
+C:\Users\dorian.contal\source\repos\IAPM_Contal\IAPM_Contal\obj\Debug\IAPM_Contal.Resources.resources
+C:\Users\dorian.contal\source\repos\IAPM_Contal\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.GenerateResource.cache
+C:\Users\dorian.contal\source\repos\IAPM_Contal\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.CoreCompileInputs.cache
+C:\Users\dorian.contal\source\repos\IAPM_Contal\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.CopyComplete
+C:\Users\dorian.contal\source\repos\IAPM_Contal\IAPM_Contal\obj\Debug\IAPM_Contal.exe
+C:\Users\dorian.contal\source\repos\IAPM_Contal\IAPM_Contal\obj\Debug\IAPM_Contal.xml
+C:\Users\dorian.contal\source\repos\IAPM_Contal\IAPM_Contal\obj\Debug\IAPM_Contal.pdb
+C:\Users\dorian.contal\source\repos\IAPM_Contal\IAPM_Contal\obj\Debug\IAPM_Contal.FrmListeClients2.resources
+C:\Users\dorian.contal\source\repos\IAPM_Contal\bin\Debug\IAPM_Contal.exe.config
+C:\Users\dorian.contal\source\repos\IAPM_Contal\bin\Debug\IAPM_Contal.exe
+C:\Users\dorian.contal\source\repos\IAPM_Contal\bin\Debug\IAPM_Contal.pdb
+C:\Users\dorian.contal\source\repos\IAPM_Contal\bin\Debug\IAPM_Contal.xml
+C:\Users\dorian.contal\source\repos\IAPM_Contal\bin\Debug\MySql.Data.dll
+C:\Users\dorian.contal\source\repos\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.AssemblyReference.cache
+C:\Users\dorian.contal\source\repos\IAPM_Contal\obj\Debug\IAPM_Contal.FrmListeClients2.resources
+C:\Users\dorian.contal\source\repos\IAPM_Contal\obj\Debug\IAPM_Contal.FrmStart.resources
+C:\Users\dorian.contal\source\repos\IAPM_Contal\obj\Debug\IAPM_Contal.FrmListeClients.resources
+C:\Users\dorian.contal\source\repos\IAPM_Contal\obj\Debug\IAPM_Contal.Resources.resources
+C:\Users\dorian.contal\source\repos\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.GenerateResource.cache
+C:\Users\dorian.contal\source\repos\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.CoreCompileInputs.cache
+C:\Users\dorian.contal\source\repos\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.CopyComplete
+C:\Users\dorian.contal\source\repos\IAPM_Contal\obj\Debug\IAPM_Contal.exe
+C:\Users\dorian.contal\source\repos\IAPM_Contal\obj\Debug\IAPM_Contal.xml
+C:\Users\dorian.contal\source\repos\IAPM_Contal\obj\Debug\IAPM_Contal.pdb
+C:\Users\dorian.contal\source\repos\IAPM_Contal\obj\Debug\IAPM_Contal.FrmAMSClient.resources
+E:\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.AssemblyReference.cache
+E:\IAPM_Contal\obj\Debug\IAPM_Contal.FrmAMSClient.resources
+E:\IAPM_Contal\obj\Debug\IAPM_Contal.FrmListeClients2.resources
+E:\IAPM_Contal\obj\Debug\IAPM_Contal.FrmStart.resources
+E:\IAPM_Contal\obj\Debug\IAPM_Contal.FrmListeClients.resources
+E:\IAPM_Contal\obj\Debug\IAPM_Contal.Resources.resources
+E:\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.GenerateResource.cache
+E:\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.CoreCompileInputs.cache
+E:\IAPM_Contal\obj\Debug\IAPM_Contal.exe
+E:\IAPM_Contal\obj\Debug\IAPM_Contal.xml
+E:\IAPM_Contal\obj\Debug\IAPM_Contal.pdb
+E:\IAPM_Contal\bin\Debug\IAPM_Contal.exe.config
+E:\IAPM_Contal\bin\Debug\IAPM_Contal.exe
+E:\IAPM_Contal\bin\Debug\IAPM_Contal.pdb
+E:\IAPM_Contal\bin\Debug\IAPM_Contal.xml
+E:\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.CopyComplete
+E:\IAPM_Contal\bin\Debug\BouncyCastle.Crypto.dll
+E:\IAPM_Contal\bin\Debug\itextsharp.dll
+E:\IAPM_Contal\bin\Debug\itextsharp.xml
+E:\IAPM_Contal\obj\Debug\IAPM_Contal.FrmAdminBDD.resources
+F:\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.AssemblyReference.cache
+F:\IAPM_Contal\obj\Debug\IAPM_Contal.FrmAdminBDD.resources
+F:\IAPM_Contal\obj\Debug\IAPM_Contal.FrmAMSClient.resources
+F:\IAPM_Contal\obj\Debug\IAPM_Contal.FrmListeClients2.resources
+F:\IAPM_Contal\obj\Debug\IAPM_Contal.FrmStart.resources
+F:\IAPM_Contal\obj\Debug\IAPM_Contal.FrmListeClients.resources
+F:\IAPM_Contal\obj\Debug\IAPM_Contal.Resources.resources
+F:\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.GenerateResource.cache
+F:\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.CoreCompileInputs.cache
+F:\IAPM_Contal\obj\Debug\IAPM_Contal.exe
+F:\IAPM_Contal\obj\Debug\IAPM_Contal.xml
+F:\IAPM_Contal\obj\Debug\IAPM_Contal.pdb
+F:\IAPM_Contal\obj\Debug\IAPM_Contal.AsmProduit.resources
+F:\IAPM_Contal\bin\Debug\IAPM_Contal.exe.config
+F:\IAPM_Contal\bin\Debug\IAPM_Contal.exe
+F:\IAPM_Contal\bin\Debug\IAPM_Contal.pdb
+F:\IAPM_Contal\bin\Debug\IAPM_Contal.xml
+F:\IAPM_Contal\bin\Debug\BouncyCastle.Crypto.dll
+F:\IAPM_Contal\bin\Debug\itextsharp.dll
+F:\IAPM_Contal\bin\Debug\MySql.Data.dll
+F:\IAPM_Contal\bin\Debug\itextsharp.xml
+F:\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.CopyComplete
+E:\IAPM_Contal\obj\Debug\IAPM_Contal.AsmProduit.resources
+E:\IAPM_Contal\obj\Debug\IAPM_Contal.FrmAMSCommandes.resources
+E:\IAPM_Contal\obj\Debug\IAPM_Contal.FrmConsulterCommande.resources
+E:\IAPM_Contal\obj\Debug\IAPM_Contal.FrmAjoutCommande.resources
+F:\IAPM_Contal\obj\Debug\IAPM_Contal.FrmAjoutCommande.resources
+F:\IAPM_Contal\obj\Debug\IAPM_Contal.FrmAMSCommandes.resources
+F:\IAPM_Contal\obj\Debug\IAPM_Contal.FrmConsulterCommande.resources
+F:\IAPM_Contal\bin\Debug\Google.Protobuf.dll
+F:\IAPM_Contal\bin\Debug\ZstdNet.dll
+F:\IAPM_Contal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\IAPM_Contal\bin\Debug\Ubiety.Dns.Core.dll
+F:\IAPM_Contal\bin\Debug\System.Memory.dll
+F:\IAPM_Contal\bin\Debug\System.Buffers.dll
+F:\IAPM_Contal\bin\Debug\K4os.Compression.LZ4.dll
+F:\IAPM_Contal\bin\Debug\K4os.Hash.xxHash.dll
+F:\IAPM_Contal\bin\Debug\System.Numerics.Vectors.dll
+F:\IAPM_Contal\bin\Debug\MySql.Data.xml
+F:\IAPM_Contal\obj\Debug\IAPM_Contal.exe.config
+E:\IAPM_Contal\bin\Debug\Google.Protobuf.dll
+E:\IAPM_Contal\bin\Debug\ZstdNet.dll
+E:\IAPM_Contal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\IAPM_Contal\bin\Debug\Ubiety.Dns.Core.dll
+E:\IAPM_Contal\bin\Debug\System.Memory.dll
+E:\IAPM_Contal\bin\Debug\System.Buffers.dll
+E:\IAPM_Contal\bin\Debug\K4os.Compression.LZ4.dll
+E:\IAPM_Contal\bin\Debug\K4os.Hash.xxHash.dll
+E:\IAPM_Contal\bin\Debug\System.Numerics.Vectors.dll
+E:\IAPM_Contal\bin\Debug\MySql.Data.xml
+E:\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.SuggestedBindingRedirects.cache
+E:\IAPM_Contal\obj\Debug\IAPM_Contal.exe.config
+E:\IAPM_Contal\obj\Debug\IAPM_Contal.FrmAMSFournisseur.resources
+E:\IAPM_Contal\bin\Debug\GestionIAPM.dll
+E:\IAPM_Contal\bin\Debug\GestionIAPM.pdb
+E:\IAPM_Contal\bin\Debug\GestionIAPM.xml
+E:\IAPM_Contal\bin\Debug\GestionIAPM.dll.config
+D:\Iapm Projet\vb\IAPM_Contal\bin\Debug\IAPM_Contal.exe.config
+D:\Iapm Projet\vb\IAPM_Contal\bin\Debug\IAPM_Contal.exe
+D:\Iapm Projet\vb\IAPM_Contal\bin\Debug\IAPM_Contal.pdb
+D:\Iapm Projet\vb\IAPM_Contal\bin\Debug\IAPM_Contal.xml
+D:\Iapm Projet\vb\IAPM_Contal\bin\Debug\BouncyCastle.Crypto.dll
+D:\Iapm Projet\vb\IAPM_Contal\bin\Debug\GestionIAPM.dll
+D:\Iapm Projet\vb\IAPM_Contal\bin\Debug\itextsharp.dll
+D:\Iapm Projet\vb\IAPM_Contal\bin\Debug\Google.Protobuf.dll
+D:\Iapm Projet\vb\IAPM_Contal\bin\Debug\ZstdNet.dll
+D:\Iapm Projet\vb\IAPM_Contal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Iapm Projet\vb\IAPM_Contal\bin\Debug\Ubiety.Dns.Core.dll
+D:\Iapm Projet\vb\IAPM_Contal\bin\Debug\System.Memory.dll
+D:\Iapm Projet\vb\IAPM_Contal\bin\Debug\System.Buffers.dll
+D:\Iapm Projet\vb\IAPM_Contal\bin\Debug\K4os.Compression.LZ4.dll
+D:\Iapm Projet\vb\IAPM_Contal\bin\Debug\K4os.Hash.xxHash.dll
+D:\Iapm Projet\vb\IAPM_Contal\bin\Debug\System.Numerics.Vectors.dll
+D:\Iapm Projet\vb\IAPM_Contal\bin\Debug\GestionIAPM.pdb
+D:\Iapm Projet\vb\IAPM_Contal\bin\Debug\GestionIAPM.xml
+D:\Iapm Projet\vb\IAPM_Contal\bin\Debug\GestionIAPM.dll.config
+D:\Iapm Projet\vb\IAPM_Contal\bin\Debug\itextsharp.xml
+D:\Iapm Projet\vb\IAPM_Contal\bin\Debug\MySql.Data.xml
+D:\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.AssemblyReference.cache
+D:\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.SuggestedBindingRedirects.cache
+D:\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.exe.config
+D:\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.AsmProduit.resources
+D:\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.FrmAdminBDD.resources
+D:\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.FrmAjoutCommande.resources
+D:\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.FrmAMSClient.resources
+D:\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.FrmAMSCommandes.resources
+D:\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.FrmAMSFournisseur.resources
+D:\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.FrmConsulterCommande.resources
+D:\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.FrmListeClients2.resources
+D:\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.FrmStart.resources
+D:\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.FrmListeClients.resources
+D:\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.Resources.resources
+D:\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.GenerateResource.cache
+D:\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.CoreCompileInputs.cache
+D:\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.CopyComplete
+D:\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.exe
+D:\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.xml
+D:\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.pdb
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.AssemblyReference.cache
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.SuggestedBindingRedirects.cache
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.exe.config
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.AsmProduit.resources
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.FrmAdminBDD.resources
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.FrmAjoutCommande.resources
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.FrmAMSClient.resources
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.FrmAMSCommandes.resources
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.FrmAMSFournisseur.resources
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.FrmConsulterCommande.resources
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.FrmListeClients2.resources
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.FrmStart.resources
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.FrmListeClients.resources
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.Resources.resources
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.GenerateResource.cache
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.CoreCompileInputs.cache
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.exe
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.xml
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.pdb
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\IAPM_Contal.exe.config
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\IAPM_Contal.exe
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\IAPM_Contal.pdb
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\IAPM_Contal.xml
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\BouncyCastle.Crypto.dll
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\GestionIAPM.dll
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\itextsharp.dll
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\Google.Protobuf.dll
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\ZstdNet.dll
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\Ubiety.Dns.Core.dll
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\System.Memory.dll
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\System.Buffers.dll
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\K4os.Compression.LZ4.dll
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\K4os.Hash.xxHash.dll
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\System.Numerics.Vectors.dll
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\GestionIAPM.pdb
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\GestionIAPM.xml
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\GestionIAPM.dll.config
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\itextsharp.xml
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\MySql.Data.xml
+E:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.CopyComplete
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\IAPM_Contal.exe.config
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\IAPM_Contal.exe
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\IAPM_Contal.pdb
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\IAPM_Contal.xml
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\BouncyCastle.Crypto.dll
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\GestionIAPM.dll
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\itextsharp.dll
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\Google.Protobuf.dll
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\ZstdNet.dll
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\Ubiety.Dns.Core.dll
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\System.Memory.dll
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\System.Buffers.dll
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\K4os.Compression.LZ4.dll
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\K4os.Hash.xxHash.dll
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\System.Numerics.Vectors.dll
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\GestionIAPM.pdb
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\GestionIAPM.xml
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\GestionIAPM.dll.config
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\itextsharp.xml
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\bin\Debug\MySql.Data.xml
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.AssemblyReference.cache
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.SuggestedBindingRedirects.cache
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.exe.config
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.AsmProduit.resources
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.FrmAdminBDD.resources
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.FrmAjoutCommande.resources
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.FrmAMSClient.resources
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.FrmAMSCommandes.resources
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.FrmAMSFournisseur.resources
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.FrmConsulterCommande.resources
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.FrmListeClients2.resources
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.FrmStart.resources
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.FrmListeClients.resources
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.Resources.resources
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.GenerateResource.cache
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.CoreCompileInputs.cache
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.vbproj.CopyComplete
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.exe
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.xml
+D:\BTS\Projet\Iapm Projet\vb\IAPM_Contal\obj\Debug\IAPM_Contal.pdb

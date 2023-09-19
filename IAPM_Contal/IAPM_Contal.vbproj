@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{968BC478-F257-470A-B09D-D176900A6AA8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>IAPM_Contal.My.MyApplication</StartupObject>
+    <RootNamespace>IAPM_Contal</RootNamespace>
+    <AssemblyName>IAPM_Contal</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>IAPM_Contal.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>IAPM_Contal.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.6.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.6.1\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.2, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.2\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>\\icomptes\sio\Ressources\AP PPE2 SIO1 SLAM\1 ADO.Net MySQL\SIO1 Executable Exemple IAPM 2022\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AsmProduit.Designer.vb">
+      <DependentUpon>AsmProduit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AsmProduit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAdminBDD.Designer.vb">
+      <DependentUpon>FrmAdminBDD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAdminBDD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAjoutCommande.Designer.vb">
+      <DependentUpon>FrmAjoutCommande.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAjoutCommande.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAMSClient.Designer.vb">
+      <DependentUpon>FrmAMSClient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAMSClient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAMSCommandes.Designer.vb">
+      <DependentUpon>FrmAMSCommandes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAMSCommandes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAMSFournisseur.Designer.vb">
+      <DependentUpon>FrmAMSFournisseur.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAMSFournisseur.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConsulterCommande.Designer.vb">
+      <DependentUpon>FrmConsulterCommande.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConsulterCommande.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListeClients2.Designer.vb">
+      <DependentUpon>FrmListeClients2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListeClients2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStart.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStart.Designer.vb">
+      <DependentUpon>FrmStart.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\FrmListeClients.Designer.vb">
+      <DependentUpon>FrmListeClients.vb</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\FrmListeClients.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AsmProduit.resx">
+      <DependentUpon>AsmProduit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAdminBDD.resx">
+      <DependentUpon>FrmAdminBDD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAjoutCommande.resx">
+      <DependentUpon>FrmAjoutCommande.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAMSClient.resx">
+      <DependentUpon>FrmAMSClient.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAMSCommandes.resx">
+      <DependentUpon>FrmAMSCommandes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAMSFournisseur.resx">
+      <DependentUpon>FrmAMSFournisseur.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConsulterCommande.resx">
+      <DependentUpon>FrmConsulterCommande.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListeClients2.resx">
+      <DependentUpon>FrmListeClients2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmStart.resx">
+      <DependentUpon>FrmStart.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\FrmListeClients.resx">
+      <DependentUpon>FrmListeClients.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="GestionIAPM\GestionIAPM.vbproj">
+      <Project>{0934a9db-11ad-4727-b785-caa8594184df}</Project>
+      <Name>GestionIAPM</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
